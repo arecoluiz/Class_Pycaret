@@ -1,2 +1,5 @@
-# Assignment_18
-Criação de um modelo de Machine Learning para classificação de pacientes
+# Utilização do PyCaret para comparação de modelos para classificação de pacientes
+
+Criação de um modelo de classificação de pacientes baseado no comparativo de modelos utilizando o PyCaret.
+
+Foi escolhido o modelo com melhor 'F1 Score'
